@@ -23,7 +23,7 @@ This project is a complete database management system for tracking flower invent
 
 Below is the ERD (Entity Relationship Diagram) for the Flower Inventory Tracking Database:
 
-![ERD](./erd.png)
+![ERD](./ERD%20Diagram.png)
 
 ## Deliverables
 
